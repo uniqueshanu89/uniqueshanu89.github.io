@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sayan is a seasoned Smart Manufacturing Solution Architect with expertise in IT/OT convergence, next-generation automation, Industrial Edge systems, MES, Data Historian, and advanced cloud and Big Data solutions.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+He is specializes in building tailored Smart Manufacturing strategies to accelerate scalable growth for large-scale digital initiatives.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Beyond his technical expertise, he actively mentors emerging IT professionals and remains at the forefront of technological advancements.
 
+Outside work, Sayan channels his creativity into photography, explores new destinations, immerses himself in music, and passionately follows football.
 
-[jekyll-organization]: https://github.com/jekyll
+Discover more about his career and insights by connecting with him on [LinkedIn](https://www.linkedin.com/in/chowdhury-sayan/).
